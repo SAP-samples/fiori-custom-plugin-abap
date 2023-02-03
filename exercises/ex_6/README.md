@@ -18,3 +18,6 @@ You have concluded this exercise! Great job!
 We hope you learned a lot  :)
 
   ![Development ARchitecture](images/dev_arch.png)
+
+## License
+Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.

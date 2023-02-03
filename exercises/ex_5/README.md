@@ -43,3 +43,6 @@ In the next section you will test your custom plugin and all the objects in our 
   ![Development ARchitecture](images/dev_arch.png)
 
 To continue with this exercise go to [Exercise 6](../ex_6)
+
+## License
+Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.

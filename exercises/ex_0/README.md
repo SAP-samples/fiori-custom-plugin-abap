@@ -71,3 +71,6 @@ Note that using Embedded Steampunk you can create a variety of services like:
 For more information on Embedded Steampunk and possible use cases we strongly recommend reviewing the contents in the [SAP Help Documentation of the ABAP platform ](https://help.sap.com/docs/ABAP_PLATFORM_NEW/b5670aaaa2364a29935f40b16499972d/155909e3569941e08831c78cf4c2d495.html).
 
 To continue with this exercise go to [Exercise 1](../ex_1)
+
+## License
+Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
