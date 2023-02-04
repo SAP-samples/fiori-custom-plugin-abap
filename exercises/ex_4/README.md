@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Jorge Baltazar <jorge.baltazar@sap.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # CREATING AND DEPLOYING AN SAP FIORI LAUNCHPAD PLUGIN IN SAP BUSINESS APPLICATION STUDIO
 
 ## Introduction

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Jorge Baltazar <jorge.baltazar@sap.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Create an SAP Fiori Launchpad Custom Plugin with SAP Business Application Studio and SAP S/4HANA Embedded Steampunk
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/fiori-custom-plugin-abap)](https://api.reuse.software/info/github.com/SAP-samples/fiori-custom-plugin-abap)
 

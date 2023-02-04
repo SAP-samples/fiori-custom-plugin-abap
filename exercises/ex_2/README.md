@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Jorge Baltazar <jorge.baltazar@sap.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # CREATING A BACKEND FUNCTION MODULE TO EXPOSE SYSTEM DETAILS
 
 ## Introduction

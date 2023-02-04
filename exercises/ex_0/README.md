@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Jorge Baltazar <jorge.baltazar@sap.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # UNDERSTANDING SAP S/4HANA EMBEDDED STEAMPUNK
 
 ## Introduction
