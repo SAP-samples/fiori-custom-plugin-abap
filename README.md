@@ -7,9 +7,9 @@ SPDX-License-Identifier: Apache-2.0
 # Create an SAP Fiori Launchpad Custom Plugin with SAP Business Application Studio and SAP S/4HANA Embedded Steampunk
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/fiori-custom-plugin-abap)](https://api.reuse.software/info/github.com/SAP-samples/fiori-custom-plugin-abap)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Size](https://img.shields.io/github/languages/code-size/SAP-samples/fiori-custom-plugin-abap)
-[![Languages](https://img.shields.io/github/languages/count/SAP-samples/fiori-custom-plugin-abap)
-[![Top Language](https://img.shields.io/github/languages/top/SAP-samples/fiori-custom-plugin-abap)
+![Size](https://img.shields.io/github/languages/code-size/SAP-samples/fiori-custom-plugin-abap)
+![Languages](https://img.shields.io/github/languages/count/SAP-samples/fiori-custom-plugin-abap)
+![Top Language](https://img.shields.io/github/languages/top/SAP-samples/fiori-custom-plugin-abap)
 
 ## Description
 
