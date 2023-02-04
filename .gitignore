@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2023 Jorge Baltazar <jorge.baltazar@sap.com>
 #
-# SPDX-License-Identifier: CC0-1.0
+# SPDX-License-Identifier: Apache-2.0
 
 .DS_Store
 *.pptx

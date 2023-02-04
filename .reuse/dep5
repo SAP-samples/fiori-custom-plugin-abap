@@ -24,191 +24,74 @@ Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  you any rights to use or access any SAP External Product, or provide any third
  parties the right to use of access any SAP External Product, through API Calls.
 
-Files: 
-LICENSE
-README.md
-exercises
-images
-
-./exercises:
-ex_0
-ex_1
-ex_2
-ex_3
-ex_4
-ex_5
-ex_6
-
-./exercises/ex_0:
-README.md
-images
-
-./exercises/ex_0/images:
-cleancore.png
-cleancore_options.png
-dev_arch.png
-reasons.png
-
-./exercises/ex_1:
-README.md
-images
-
-./exercises/ex_1/images:
-confirm_new.png
-dev_arch.png
-enter_systemId.png
-new_project.png
-review_details.png
-select_system.png
-setup_name.png
-step10.png
-step11.png
-step12.png
-step13.png
-step14.png
-step15.png
-step15trbl.png
-step16.png
-step17.png
-step18.png
-step19.png
-step20.png
-step21.png
-step22.png
-step24.png
-step7.png
-step8.png
-step9.png
-
-./exercises/ex_2:
-README.md
-images
-sources
-
-./exercises/ex_2/images:
-dev_arch.png
-step16.png
-step19.png
-step26.png
-step27.png
-step29.png
-step30.png
-step31.png
-step32.png
-step34.png
-step35.png
-step36.png
-step38.png
-step39.png
-step40.png
-step41.png
-
-./exercises/ex_2/sources:
-Z_GET_SYSTEM_DETAILS.abap
-
-./exercises/ex_3:
-README.md
-images
-sources
-
-./exercises/ex_3/images:
-dev_arch.png
-step16.png
-step19.png
-step42.png
-step43.png
-step44.png
-step46.png
-step47.png
-step48.png
-step49.png
-step49trbl.png
-step50.png
-step51.png
-step52.png
-step54.png
-step55.png
-step56.png
-step57.png
-step58.png
-step59.png
-step60.png
-step60dbg.png
-
-./exercises/ex_3/sources:
-ZCL_GET_SYSTEM_DETAILS.abap
-
-./exercises/ex_4:
-README.md
-images
-sources
-
-./exercises/ex_4/images:
-dev_arch.png
-plugin_package.png
-step61.png
-step62.png
-step63.png
-step64.png
-step65.png
-step66.png
-step67.png
-step68.png
-step69.png
-step70.png
-step71.png
-step72.png
-step73.png
-step74.png
-step75.png
-step76.png
-step77.png
-step78.png
-step79.png
-step80.png
-step81.png
-step82.png
-step83.png
-step84.png
-step85.png
-step86.png
-step87.png
-step88.png
-step89.png
-step90.png
-step91.png
-step92.png
-step93.png
-step94.png
-
-./exercises/ex_4/sources:
-Component.js
-manifest.json
-
-./exercises/ex_5:
-README.md
-images
-
-./exercises/ex_5/images:
-dev_arch.png
-step100.png
-step95.png
-step96.png
-step97.png
-step98.png
-step99.png
-
-./exercises/ex_6:
-README.md
-images
-
-./exercises/ex_6/images:
-dev_arch.png
-step101.png
-
-./images:
-overview.png
-
-Copyright:  2023-2026> SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+Files: /exercises/ex_0/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
 License: Apache-2.0
 
+Files: /exercises/ex_0/images/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_1/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_1/images/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_2/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_2/images/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_2/sources/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_3/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_3/images/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_3/sources/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_4/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_4/images/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_4/sources/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_5/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_5/images/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_6/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: /exercises/ex_6/images/*
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
+
+Files: *
+Copyright:  2023-2026 SAP SE or an SAP affiliate company and <fiori-custom-plugin-abap> contributors
+License: Apache-2.0
