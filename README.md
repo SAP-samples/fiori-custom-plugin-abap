@@ -1,10 +1,9 @@
 # Create an SAP Fiori Launchpad Custom Plugin with SAP Business Application Studio and SAP S/4HANA Embedded Steampunk
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/fiori-custom-plugin-abap)](https://api.reuse.software/info/github.com/SAP-samples/fiori-custom-plugin-abap)
 
 ## Description
 
 This repository contains the material for creating a custom SAP Fiori Launchpad plugin with SAP Business Application Studio along with instructions on how to use Embedded Steampunk in SAP S/4HANA 2022 or higher to create custom developer extensibility services for consumption in this custom Fiori Launchpad Plugin.  
-
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/fiori-custom-plugin-abap)](https://api.reuse.software/info/github.com/SAP-samples/fiori-custom-plugin-abap)
 
 ## Overview
 
